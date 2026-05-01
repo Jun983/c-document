@@ -22,9 +22,15 @@
 
 - [개발 환경 설정 가이드](docs/guide/development-environment-setup.md)
 
+## 프로젝트 시작 가이드
+
+개발 환경 설정을 마쳤다면, VS Code에서 C 프로젝트를 만드는 방법을 먼저 따라 해 보세요.
+
+- [Visual Studio Code로 C 언어 프로젝트 만들기](docs/guide/vscode-c-project-setup.md)
+
 ## 학습 순서
 
-1. C 프로그램
+1. [C 프로그램](docs/guide/01-c-program.md)
 2. 변수와 자료형
 3. 입력과 출력
 4. 연산자
