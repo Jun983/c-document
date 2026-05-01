@@ -1,0 +1,53 @@
+# --- Obsidian (로컬 UI/캐시 — 플러그인 설정은 커밋 유지) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workplace.json
+.obsidian/cache/
+
+# --- C / C++ 빌드 산출물 ---
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# CMake / 빌드 디렉터리 ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+out/
+cmake-build-*/
+Debug/
+Release/
+x64/
+.vs/
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+
+# --- macOS (공유 시) ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- 에디터 / 도구 (선택) ---
+*.swp
+*~
+.vscode/*.log
+
+# --- 기타 ---
+*.log
+*.tmp
+*.temp
