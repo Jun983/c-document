@@ -31,7 +31,7 @@
 ## 학습 순서
 
 1. [C 프로그램](docs/lessons/01-c-program.md)
-2. 변수와 자료형
+2. [변수와 자료형](docs/lessons/02-variables-and-data-types.md)
 3. 입력과 출력
 4. 연산자
 5. 조건문과 반복문
