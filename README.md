@@ -16,6 +16,8 @@ cd c-document
 
 이후 선호하는 에디터(Obsidian, VS Code 등)로 폴더를 열어 문서를 편집하면 됩니다.
 
+Windows에서 VS Code·GCC·WSL로 환경을 맞추려면 [개발 환경 설정 가이드](docs/guide/development-environment-setup.md)를 참고하세요.
+
 ## 저장소에 포함·제외되는 것
 
 - **포함**: 마크다운 문서, 이미지 등 노트 자료, Obsidian 플러그인 설정(`.gitignore`에서 제외하지 않은 범위)
